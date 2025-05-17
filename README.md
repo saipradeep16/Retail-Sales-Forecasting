@@ -1,4 +1,4 @@
-# 🧠 Retail Sales Forecasting with Machine Learning and Deep Learning
+# 🧠 An Enhanced Machine Learning Model for Prediction of Retail Sales
 
 This repository presents a comprehensive approach to predicting retail sales using both **structured** and **time-series** datasets. The project implements classical machine learning algorithms and advanced deep learning models—including a hybrid model—to demonstrate the effectiveness of different techniques across different data contexts.
 
@@ -80,5 +80,5 @@ This project confirms that:
 │   ├── BigMart_Sales_ML_Models
 │   ├── LSTM_Final.ipynb
 │   ├── LSTM_and_XGBoost.ipynb
-├── Final_Report.pdf
+├── Report.pdf
 ├── README.md
